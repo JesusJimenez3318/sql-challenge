@@ -7,13 +7,10 @@ Entity Relationship Diagram for all tables.
 
 Data Engineering 
 
-All required columns are defined for each table 
-Columns are set to the correct data type 
-Primary Keys set for each table 
-Correctly references related tables 
-Tables are correctly related using Foreign Keys 
-Correctly uses NOT NULL condition on necessary columns 
-Accurately defines value length for columns 
+All required columns are defined for each table and columns are set to the correct data type.
+Primary Keys set for each table and correctly references related tables.
+Tables are correctly related using Foreign Keys.
+Correctly uses NOT NULL condition on necessary columns and accurately defines value length for columns.
 
 
 Data Analysis 
